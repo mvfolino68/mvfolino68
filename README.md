@@ -1,14 +1,14 @@
 ### Hi there I'm Mike 👋
-
+<!--
 <a href="https://www.linkedin.com/in/mfolino/">
   <img align="left" alt="Mike's LinkedIn" width="21px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-
 <br />
 <br />
 
 I am a self-taught programmer, working at Confluent as a Solutions Engineer. I am mostly interested in Data topics.
-
+-->
+<!--
 ### Languages and Tools:
 
 <code><img src="https://img.shields.io/badge/python-%2314354C?&style=for-the-badge&logo=python&logoColor=white"></code>
@@ -21,7 +21,7 @@ I am a self-taught programmer, working at Confluent as a Solutions Engineer. I a
 <code><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
 
 
-<!--
+
 **mvfolino68/mvfolino68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
