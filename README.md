@@ -1,4 +1,4 @@
-### Hi, I'm Mike
+
 <!--
 <a href="https://www.linkedin.com/in/mfolino/">
   <img align="left" alt="Mike's LinkedIn" width="21px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/>
